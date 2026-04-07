@@ -24,7 +24,7 @@ foodfacts/
 
 # Hipótesis planteadas
 
-### Hipótesis 1 (NutriScore): El sistema NutriScore no refleja adecuadamente la calidad nutricional real de los productos, ya que se basa principalmente en los ingredientes y nutrientes declarados pero no considera el grado de procesamiento de los alimentos.
+### Hipótesis 1 (NutriScore): El sistema NutriScore no refleja adecuadamente la calidad nutricional real de los productos, ya que se basa principalmente en los ingredientes y nutrientes declarados, pero no considera el grado de procesamiento de los alimentos.
 
 ### Hipótesis 2 (Etiquetado ‘Bio’): Los productos con etiqueta “Bio” no presentan un perfil nutricional significativamente mejor (en valores de grasa, azúcar o sal) que sus equivalentes convencionales.
 
