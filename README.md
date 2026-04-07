@@ -4,12 +4,13 @@
 
 ```text
 foodfacts/
-├── notebooks/       # Notebooks .ipynb (Preprocesado, Limpieza, Análisis)
-├── data/            # Archivos .csv
-│   ├── raw/         # Datos originales (FAO, OpenFoodFacts original)
-│   └── processed/   # Datos limpios (foods_cleaned_2026.csv)
-├── images/          # Gráficos y visualizaciones generadas
-└── README.md
+├── notebooks/          # Notebooks .ipynb (Preprocesado y Análisis)
+├── data/               # Directorio principal de datos
+│   ├── raw/            # Datos originales (FAO, OpenFoodFacts original)
+│   ├── processed/      # Datos procesados (foods_cleaned_2026.csv)
+│   └── txt/            # Textos extraídos para procesamiento con Regex
+├── images/             # Gráficos y visualizaciones generadas
+└── README.md           # Documentación del proyecto
 ```
 
 # Hipótesis planteadas
