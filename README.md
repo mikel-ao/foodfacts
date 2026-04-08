@@ -24,12 +24,13 @@ foodfacts/
 
 # Hipótesis planteadas
 
-### Hipótesis 1 (NutriScore): El sistema NutriScore no refleja adecuadamente la calidad nutricional real de los productos, ya que se basa principalmente en los ingredientes y nutrientes declarados, pero no considera el grado de procesamiento de los alimentos.
+### H1 (Nutri-Score vs. NOVA): El algoritmo Nutri-Score es ciego al grado de procesamiento industrial, permitiendo que productos ultraprocesados obtengan calificaciones de excelencia (A/B).
 
-### Hipótesis 2 (Etiquetado ‘Bio’): Los productos con etiqueta “Bio” no presentan un perfil nutricional significativamente mejor (en valores de grasa, azúcar o sal) que sus equivalentes convencionales.
+### H2 (Efecto Halo 'Bio'): El etiquetado “Bio” certifica el origen y la sostenibilidad (Eco-Score), pero no garantiza un producto menos procesado que el convencional.
 
-### Hipótesis 3 (Marcas blancas vs multinacionales): En general, las marcas blancas ofrecen productos con un perfil nutricional más equilibrado que las grandes multinacionales dentro de las mismas categorías alimentarias.
+### H3 (MDD vs. Multinacionales): Las MDD actúan como vectores de saludabilidad, ofreciendo perfiles nutricionales más equilibrados y menor carga de aditivos que las grandes corporaciones.	
 
-### Hipótesis 4 (Producción cárnica vs calidad vegetal): En países con alta producción de proteína animal, las alternativas vegetales tienden a ser más procesadas para imitar texturas y sabores cárnicos, lo que reduce su calidad nutricional.
+### H4 (Mercado Cárnico vs. Plant-based): En países de alta cultura ganadera, la oferta vegetal presenta mayor procesamiento tecnológico y menor densidad proteica para mimetizar la experiencia cárnica.
+
 
 
