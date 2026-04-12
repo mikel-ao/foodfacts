@@ -11,7 +11,7 @@ foodfacts/
 │   ├── 04_h03.ipynb                 # Análisis de la Hipótesis 3
 │   └── 05_h04.ipynb                 # Análisis de la Hipótesis 4
 ├── data/               # Directorio principal de datos
-│   ├── raw/            # Datos originales (FAO, OpenFoodFacts original)
+│   ├── raw/            # Datos originales (FAO, OpenFoodFacts)
 │   ├── processed/      # Datos procesados (foods_cleaned_2026.csv)
 │   └── txt/            # Textos extraídos para procesamiento con Regex
 ├── images/             # Gráficos y visualizaciones generadas
