@@ -1,4 +1,4 @@
-# Evaluación de la Calidad del Sistema Alimentario mediante Ciencia de Datos Aplicada
+# Evaluación de Calidad del Sistema Actual de Etiquetado de Alimentos
 
 ## Estructura del Proyecto
 
