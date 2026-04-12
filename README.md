@@ -1,4 +1,4 @@
-# Evaluación de Calidad del Sistema Actual de Etiquetado de Alimentos
+# Evaluación de Calidad del Sistema de Etiquetado Alimentario 🍎🔬
 
 ## Estructura del Proyecto
 
