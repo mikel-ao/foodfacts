@@ -1,6 +1,24 @@
 # Evaluación de Calidad del Sistema de Etiquetado Alimentario 🍎🔬
 
-Este proyecto realiza una auditoría multidimensional del sistema alimentario actual, integrando dimensiones nutricionales (Nutri-Score), industriales (NOVA), ambientales (Eco-Score) y de mercado (MDD vs. Multinacionales). El objetivo es desentrañar la "paradoja de la información" que enfrenta el consumidor europeo en 2026.
+Este proyecto realiza una auditoría multidimensional del sistema alimentario actual, integrando dimensiones nutricionales (Nutri-Score), industriales (NOVA), ambientales (Eco-Score) y de mercado (Marcas de distribuidor vs. Grandes corporaciones). El objetivo es desentrañar la "paradoja de la información" que enfrenta el consumidor europeo en 2026.
+
+# 📌 Resumen del Proyecto
+
+A través del análisis de ~10.000 productos extraídos de Open Food Facts y datos de producción de la FAO, este trabajo utiliza técnicas de Data Science para validar si los sellos de calidad actuales reflejan la realidad biológica de los alimentos o si son vulnerables al marketing nutricional.
+
+# 🚀 Tecnologías y Herramientas
+
+* Lenguaje: Python 3.11+
+  
+* Análisis de Datos: Pandas, NumPy.
+  
+* Limpieza Avanzada: ReGex (para normalización multilingüe de >2.000 variantes de países y marcas).
+  
+* Visualización: Seaborn, Matplotlib (Enfoque en mapas de calor y diagramas de barras para una visualización sencilla).
+  
+* Modelado: Regresión Lineal Múltiple (Interpretación de coeficientes $\beta$ para ingeniería inversa del Nutri-Score).
+
+
 
 ## Estructura del Proyecto
 
