@@ -42,7 +42,7 @@ A través del análisis de ~10.000 productos extraídos de Open Food Facts y dat
 * La Rebelión de la marca blanca: Los productos de marca blanca contienen un 62% menos de azúcar y casi el cuádruple de fibra que los productos de grandes corporaciones.
 ![Figura 4](outputs/plots/3_2_perfil_nutricional.png)
 
-* Marcas blancas más limpias: El 57% del catálogo de las marcas blancas contiene cero aditivos vs. el 43% del catálogo de grandes corporaciones.
+* Marcas blancas más limpias: El 57% del catálogo de las marcas blancas contiene cero aditivos vs. el 44% del catálogo de grandes corporaciones.
 ![Figura 5](outputs/plots/3_3_aditivos_marcas.png)
 
 * Erosión nutricional: En España, los análogos cárnicos tienen una mediana de 3 aditivos, frente a los 0 aditivos que se observan en mercados más maduros como Reino Unido.
