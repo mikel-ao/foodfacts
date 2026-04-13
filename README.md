@@ -30,7 +30,7 @@ A través del análisis de ~10.000 productos extraídos de Open Food Facts y dat
 
 # 📊 Hallazgos Clave 
 
-* Fallo lógico: El 23% de los productos ultraprocesados logran un Nutri-Score A o B.
+* Fallo lógico: El 24% de los productos ultraprocesados logran un Nutri-Score A o B.
 ![Figura 1](outputs/plots/1.1_heatmap.png)
 
 * Algoritmo manipulable: El Nutri-Score es susceptible de ser "hackeado" mediante ajustes técnicos en la formulación para mejorar artificialmente la nota sin elevar necesariamente la calidad nutricional real.
