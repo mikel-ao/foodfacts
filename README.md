@@ -43,13 +43,13 @@ A través del análisis de ~10.000 productos extraídos de Open Food Facts y dat
 ![Figura 4](outputs/plots/3_2_perfil_nutricional.png)
 
 * Marcas blancas más limpias: El 57% del catálogo de las marcas blancas contiene cero aditivos vs. el 43% del catálogo de grandes corporaciones.
-* ![Figura 5](outputs/plots/3_3_aditivos_marcas.png)
+![Figura 5](outputs/plots/3_3_aditivos_marcas.png)
 
 * Erosión nutricional: En España, los análogos cárnicos tienen una mediana de 3 aditivos, frente a los 0 aditivos que se observan en mercados más maduros como Reino Unido.
-* ![Figura 6](outputs/plots/4_1_cultura_procesado.png)
+![Figura 6](outputs/plots/4_1_cultura_procesado.png)
 
 * Calidad vs. Experiencia sensorial: En el mercado de los análogos cárnicos se observan dos vertientes: propuestas que priorizan la densidad nutricional, frente a las que centran sus esfuerzos en mimetizar la experiencia sensorial de la carne animal, sacrificando el valor nutricional del producto final.
-* ![Figura 7](outputs/plots/4_2_cultura_proteina.png)
+![Figura 7](outputs/plots/4_2_cultura_proteina.png)
 
 # 📂 Estructura del Proyecto
 
@@ -59,12 +59,12 @@ food-labelling-audit/
 │   ├── data/  
 │   │   ├── processed/  # Dataset final normalizado (foods_cleaned.csv)
 │   │   ├── raw/        # Datasets (FAO & OpenFoodFacts)
-│   │   └── txt/        # Textos extraídos para procesamiento con Regex
+│   │   └── txt/        # Textos extraídos para Regex
 │   ├── notebooks/
 │   │   └── main.ipynb  # Cuaderno principal resumido
 │   └── utils/
 │       ├── cleaning.py # Pipeline limpieza completo
-│       └── plots.py    # Pipeline visualizaci completo
+│       └── plots.py    # Pipeline visualizaciones completo
 ├── outputs/               
 │   ├── plots/          # Visualizaciones exportadas
 │   ├── presentation/   # Presentación
