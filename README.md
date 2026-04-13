@@ -8,7 +8,8 @@ A través del análisis de ~10.000 productos extraídos de Open Food Facts y dat
 
 # 💡 Hipótesis de Investigación
 
-* H1 (Nutri-Score vs. NOVA): El algoritmo Nutri-Score reduce la calidad de un alimento a sus macronutrientes permitiendo que productos ultraprocesados obtengan buenas calificaciones.
+* H1 (Nutri-Score vs. NOVA): El algoritmo Nutri-Score es susceptible a ser manipulado para que los
+ultraprocesados obtengan buenas calificaciones.
 
 * H2 (Efecto Halo 'Bio'): El etiquetado “BIO” hace pensar al consumidor que el producto es mas saludable, pero no necesariamente es más nutritivo o menos procesado.
 
