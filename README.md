@@ -98,6 +98,7 @@ food-labelling-audit/
 
 # ✍️ Autor
 Mikel Añibarro Ortega | Data Science Bootcamp The Bridge (Bilbao)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/mikelanibarroortega/)
 
 
